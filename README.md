@@ -1,7 +1,9 @@
 ## Hi mom
+<img src="https://komarev.com/ghpvc/?username=onepointfive-REAL" alt="Profile Views" />
+
 ![onepointfive-REAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=onepointfive-REAL&show_icons=true&theme=transparent)
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechStudent10&layout=compact&langs_count=100&hide=none)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=onepointfive-REAL&layout=compact&langs_count=100&hide=none)
 <!--
 **onepointfive-REAL/onepointfive-REAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
