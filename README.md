@@ -3,7 +3,13 @@
 
 ![onepointfive-REAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=onepointfive-REAL&show_icons=true&theme=transparent)
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=onepointfive-REAL&layout=compact&langs_count=100&hide=none)
+Top Languages in percentage:
+
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=onepointfive-REAL&layout=compact&hide=makefile,ruby,typescript)
+
+Top Languages in size:
+
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=onepointfive-REAL&layout=compact&stats_format=bytes&hide=makefile,ruby,typescript)
 <!--
 **onepointfive-REAL/onepointfive-REAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
