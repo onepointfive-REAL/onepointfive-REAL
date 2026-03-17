@@ -1,15 +1,15 @@
-## Hi mom
+## Wsp
 <img src="https://komarev.com/ghpvc/?username=onepointfive-REAL" alt="Profile Views" />
 
 ![onepointfive-REAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=onepointfive-REAL&show_icons=true&theme=transparent)
 
 Top Languages in percentage:
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=onepointfive-REAL&layout=compact&hide=makefile,ruby,typescript)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=onepointfive-REAL&layout=compact&hide=makefile,ruby,typescript&theme=transparent)
 
 Top Languages in size:
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=onepointfive-REAL&layout=compact&stats_format=bytes&hide=makefile,ruby,typescript)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=onepointfive-REAL&layout=compact&stats_format=bytes&hide=makefile,ruby,typescript&theme=transparent)
 <!--
 **onepointfive-REAL/onepointfive-REAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
