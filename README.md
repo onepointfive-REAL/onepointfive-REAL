@@ -1,5 +1,5 @@
 ## Hi mom
-
+![onepointfive-REAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=onepointfive-REAL&show_icons=true&theme=transparent)
 <!--
 **onepointfive-REAL/onepointfive-REAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
